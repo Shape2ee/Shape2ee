@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=250&section=header&text=Welcome!&fontSize=50&fontColor=fff&fontAlignY=40)
 
 # 👋 Hi there!
-웹 에이전시에서 웹 디자이너로 일을 하였고,
+웹 에이전시에서 웹 디자이너로 일을 하였고,<br>
 지금은 **프론트엔드 개발자**가 되기 위해 노력하는 이도형입니다.
 
 ✉ Email : shape1026@gmail.com<br>
