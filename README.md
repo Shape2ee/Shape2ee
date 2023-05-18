@@ -11,7 +11,8 @@
 
 ✉ Email : shape1026@gmail.com<br>
 🖥 Portfolio : [포트폴리오 바로가기](https://shape2ee.github.io/Portfolio/)<br>
-📘 Blog : https://shape-coding.tistory.com
+📘 Blog : [개발 블로그 바로가기](https://shape-coding.tistory.com)
+📑 Notion: [노션 페이지 바로가기](https://www.notion.so/shape1026/aa279edd0dc84c0cb577fcc685485cd1?pvs=4)
 <br>
 <br>
 <br>
